@@ -35,7 +35,7 @@
         <h2>Links</h2>
         <button id="openUrlButton" onclick="window.open('https://discord.com/invite/nycrprblx', '_blank')">
             <img src="https://images-ext-1.discordapp.net/external/Waui8Xe3THdyivzk7Tp82SwMcH9e_9kM4dsRDgd7LE4/%3Fsize%3D4096/https/cdn.discordapp.com/icons/935613791058657370/a_7736a43432048f85e00ef47b93d267e2.gif?width=655&height=655" alt="Icon" class="icon">
-            Internal Affairs at New York City Roleplay
+            Executive Council at New York City Roleplay
         </button>
         <button id="openUrlButton" onclick="window.open('https://discord.gg/6k9YGfk2jH', '_blank')">
             <img src="https://images-ext-1.discordapp.net/external/smBLsyWUvHIr0_zaQZ5T3FRv2vR9PWFEqG6HmGA7NMU/https/www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png?format=webp&quality=lossless&width=655&height=655" alt="Icon" class="icon">
